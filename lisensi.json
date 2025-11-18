@@ -2,11 +2,13 @@
     {
         "app": "ruang toast",
         "code": "RTB",
+        "status": "sanca"
         "access_key": "$2a$12$EGoUVYAtBZ0fyhBa5rem2.iHQbSO2.doHlUBZepXbymQ8F5QSQWma"
     },
     {
         "app": "berkarir asn",
         "code": "CAT",
+        "status": "sanca"
         "access_key": "$2a$12$EGoUVYAtBZ0fyhBa5rem2.iHQbSO2.doHlUBZepXbymQ8F5QSQWma"
     }
 ]

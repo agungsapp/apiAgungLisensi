@@ -3,5 +3,10 @@
         "app": "ruang toast",
         "code": "RTB",
         "access_key": "$2a$12$EGoUVYAtBZ0fyhBa5rem2.iHQbSO2.doHlUBZepXbymQ8F5QSQWma"
-    }
+    },
+        {
+        "app": "berkarir asn",
+        "code": "CAT",
+        "access_key": "$2a$12$EGoUVYAtBZ0fyhBa5rem2.iHQbSO2.doHlUBZepXbymQ8F5QSQWma"
+    },
 ]
